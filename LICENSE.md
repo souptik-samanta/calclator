@@ -1,6 +1,7 @@
-MIT License
+MIT LICENSE
+IIT LICENSE
 
-Copyright (c) 2023 Samannoy Bhattacharjee
+Copyright (c) 2024 Souptik Samanta
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
