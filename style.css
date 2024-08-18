@@ -1,0 +1,15 @@
+* {
+    margin: 0; padding: 0; box-sizing: border-box;
+} body { background-color: #fafafa; min-height: 100vh; min-width: 100%; align-items: center; justify-content: center; display: flex; flex-wrap: wrap; flex-direction: column;}
+.result { align-items: center; justify-content: center; display: flex; flex-wrap: wrap; height: 2cm; border-radius: 50px; box-shadow: 0px 2px 3px 4px rgba(0,0,0,0.01); width: 12cm; background-color: #fff;}
+.result input { font-size: 16px; font-family: 'Open Sans'; font-weight: bold; height: 1cm; width: 80%; border: 0.5px solid silver; border-radius: 5px; outline: none;}
+.result input:focus { border: 0.5px solid dodgerblue;}
+.wrapper { 
+   margin-top: 40px; height: 12cm; width: 12cm; background-color: #fff; border-radius: 50px; box-shadow: 0px 2px 3px 4px rgba(0,0,0,0.01); align-items: center; justify-content: center; display: flex; flex-wrap: wrap; flex-direction: column;
+} .wrapper form { align-items: center; justify-content: center; display: flex;flex-wrap: wrap; flex-direction: column;}
+.wrapper .controls { 
+   align-items: center; justify-content: center; display: flex; height: 10cm; width: 10cm; flex-direction: row; flex-wrap: wrap; display: flex; gap: 20px;
+} 
+.wrapper .controls button 
+{height: 1.6cm; width: 1.6cm; border-radius: 100%; border: none; outline: none; background-color: lightgrey; font-size: 16px; color: #1b1b1b; font-family: 'Open Sans'; font-weight: bolder; cursor: pointer; transition: 1s;}
+.wrapper .controls button:hover { background-color: #fafafa;}
